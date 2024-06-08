@@ -4,7 +4,7 @@ export default function Document() {
   return (
     <Html lang="en">
       <Head>
-        <title>ScManager</title>
+        <title>Nextron App</title>
       </Head>
       <body>
         <Main />
